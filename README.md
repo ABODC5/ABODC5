@@ -2,7 +2,7 @@
 
 ### :heart:️ Thanks for being here!
 
-- :telephone_receiver: You can contact me through **[Discord](https://discord.com/users/546384753503502346)** (**`(username_discord)`**)
+- :telephone_receiver: You can contact me through **[Discord](https://discord.com/users/546384753503502346)** (**`(! ⦃𝐒𝐋𝐘ᚑ𝐄⦄ imaster1980#2992)`**)
 
 - :briefcase: Most famous projects: **[secret](Link)**
 
@@ -15,4 +15,4 @@
 <a><img src="https://img.shields.io/badge/-React-grey?logo=React&logoColor=#61dbfb"></a> // React
 
 #### Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=(username_github)&show_icons=true&hide_border=true&theme=algolia&icon_color=#ee6c4d">
+<img src="https://github-readme-stats.vercel.app/api?username=(ABODC5)&show_icons=true&hide_border=true&theme=algolia&icon_color=#ee6c4d">
