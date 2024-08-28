@@ -2,7 +2,7 @@
 
 ### :heart:️ Thanks for being here!
 
-- :telephone_receiver: You can contact me through **[Discord](https://discord.com/users/546384753503502346)** (**`(!ABODC5#2992)`**)
+- :telephone_receiver: You can contact me through **[Discord](https://discord.com/users/546384753503502346)** (**`(abodc5)`**)
 
 - :briefcase: Most famous projects: **[secret](Link)**
 
