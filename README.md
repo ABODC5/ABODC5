@@ -1,18 +1,28 @@
-## :wave: Hey, i am (ABODC5)! 
+<div align="center"><img src="./assets/banner.svg" alt="ABODC5 animated developer banner" width="100%" />
+Hey, I'm ABODC5 👋
+Developer focused on practical software, clean interfaces, and reliable systems.
 
-### :heart:️ Thanks for being here!
+I build web applications, dashboards, and tools — and I enjoy working on game-server infrastructure and automation.
 
-- :telephone_receiver: You can contact me through **[Discord](https://discord.com/users/546384753503502346)** (**`(abodc5)`**)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=3200&amp;pause=950&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Turning+ideas+into+working+software;Web+Applications+%7C+Dashboards+%7C+APIs;Always+learning.+Always+building." alt="Animated typing introduction" /></div>About Me
+- Building responsive web apps and data-driven dashboards.
+- Working with backend APIs, databases, and integrations.
+- Interested in automation, infrastructure, and server performance.
+- Focused on useful features, good UX, and maintainable code.
+Tech & Tools
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,postgres,mongodb,git,github,linux,vscode&amp;perline=7&amp;theme=dark" alt="JavaScript, TypeScript, React, Node.js, Express, HTML, CSS, PostgreSQL, MongoDB, Git, GitHub, Linux, VS Code" />
+</div>What I'm Building
+Area	Focus
+Web Development	Practical interfaces and interactive applications
+Dashboards	Monitoring, reporting, and data management
+Backend Systems	APIs, databases, and service integrations
+Game Infrastructure	Minecraft servers, automation, and performance
 
-- :briefcase: Most famous projects: **[secret](Link)**
 
-#### Languages and Tools I can work with:
-<a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a> 
-<img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white"> 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/-repl.it-56676e? logo=repl.it&logoColor=white"></a> 
-<img src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white"> 
-<a><img src="https://img.shields.io/badge/-React-grey?logo=React&logoColor=#61dbfb"></a> 
-
-#### Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=ABODC5&show_icons=true&hide_border=true&theme=algolia&icon_color=#ee6c4d">
+GitHub Activity
+<div align="center"><img src="https://streak-stats.demolab.com?user=ABODC5&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=7DD3FC&amp;fire=A78BFA&amp;currStreakLabel=7DD3FC" alt="ABODC5 GitHub contribution streak" width="70%" /></div>Contact
+- Discord: abodc5
+- GitHub: github.com/ABODC5
+<div align="center"><sub>Build thoughtfully. Keep improving.</sub>
+</div>
